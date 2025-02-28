@@ -3,7 +3,7 @@
     <p>
         Saúde FLOW e um moderno Dashboard baseado React JS, TailwindCSS e outros.
 </p>
-<a href="https://youtu.be/uHxZMmvQXHQ">Watch Tutorial</a>
+
 
 </div>
 
