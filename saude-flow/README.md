@@ -1,7 +1,7 @@
 <br />
 <div align="center">
     <p>
-        Saúde FLOW e um moderno Dashboard baseado React JS, TailwindCSS e outros.
+        Saúde FLOW e um moderno Dashboard baseado em React JS, TailwindCSS e outros.
 </p>
 
 
